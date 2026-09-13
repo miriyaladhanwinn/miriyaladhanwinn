@@ -23,17 +23,19 @@
 
 ## 🌟 Featured Open-Source Projects
 
-### ⚡ [RepoPulse AI • Titan Desktop Edition v2.3.0](https://github.com/miriyaladhanwinn/repo-pulse-ai)
+### ⚡ [RepoPulse AI • Titan Desktop Edition v2.3.1](https://github.com/miriyaladhanwinn/repo-pulse-ai)
 > **Native Desktop Maintainer Workstation, PR Intelligence Lab & Multi-Model Gateway**  
-> An open-source desktop application matching and surpassing the elegance of Cherry Studio, featuring **native Electron Liquid Glass framing**, **Web Auth & 6-Digit Email OTP Portal**, **Apple Duo fluid closing physics (`@keyframes appleDuoClosing`)**, **Dynamic Island ambient pill**, **540+ verified AI models**, **54 maintainer personas**, AST-bounded diff decomposition, and native **Model Context Protocol (MCP)** server.
+> An open-source desktop application matching and surpassing the elegance of Cherry Studio, featuring **native Electron Liquid Glass framing**, **Realistic 3D Quantum Geodesic Polyhedron Core**, **Holographic Gyroscope Core**, **Physical 3D Card Parallax Tilt**, **Web Auth & 6-Digit Email OTP Portal**, **Apple Duo fluid closing physics (`@keyframes appleDuoClosing`)**, **Dynamic Island 3D Waveform**, **540+ verified AI models**, **54 maintainer personas**, AST-bounded diff decomposition, and native **Model Context Protocol (MCP)** server.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                 RepoPulse Studio Desktop Shell • v2.3.0                     │
+│                 RepoPulse Studio Desktop Shell • v2.3.1                     │
 ├──────────────────────┬──────────────────────────────────────────────────────┤
 │ 🖥️ Native Desktop     │ Electron + Apple Liquid Glass + Windows 11 Acrylic   │
+│ 🌌 3D Visual Core    │ True 3D Geodesic Icosahedron Core & Volumetric Space │
+│ 🎛️ Card Physics      │ Physical 3D Card Parallax Tilt with Specular Glare   │
 │ 🔐 Web Auth Portal   │ 6-Digit Email OTP + Deep-Link Handoff (repopulse://) │
-│ 📱 Apple Duo Physics │ Spring-damped fluid closing & dynamic island pill    │
+│ 📱 Apple Duo Physics │ Spring-damped fluid closing & Dynamic Island Waveform│
 │ 🧠 Multi-Model Router │ 540+ AI Models across 35 Providers (Spotlight ⌘K)    │
 │ 👥 Assistant Matrix   │ 54 Specialized Maintainer Personas (8 Disciplines)   │
 │ 🎨 Siri Glow Themes  │ 5 High-Contrast Color Themes (Siri, Midnight, etc.)  │
