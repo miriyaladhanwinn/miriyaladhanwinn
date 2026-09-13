@@ -24,18 +24,18 @@
 
 ### ⚡ [RepoPulse AI • Titan Edition v2.0](https://github.com/miriyaladhanwinn/repo-pulse-ai)
 > **Autonomous Maintainer Harness, PR Intelligence Lab & Multi-Model Gateway**  
-> An open-source, desktop-caliber maintainer workspace that slices pull requests into AST-bounded context windows, runs automated CVE & logic reviews across 10 foundation models, and autonomously generates `node:test` bug reproducers.
+> An open-source, desktop-caliber maintainer workspace that slices pull requests into AST-bounded context windows, runs automated CVE & logic reviews across 540+ models with Spotlight switcher (`Cmd+K`), and orchestrates 54 maintainer personas.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                           RepoPulse Studio v2.0                             │
 ├──────────────────────┬──────────────────────────────────────────────────────┤
-│ 🧠 Multi-Model Router │ OpenAI Codex, Claude 3.7, Gemini 2.5, DeepSeek, Groq  │
-│ 👥 Assistant Matrix   │ 12 Specialized Maintainer & SRE Engineering Personas │
+│ 🧠 Multi-Model Router │ 540+ AI Models across 35 Providers (Spotlight ⌘K)     │
+│ 👥 Assistant Matrix   │ 54 Specialized Maintainer Personas (8 Categories)    │
 │ 🔌 Model Context Protocol │ Native stdio & JSON-RPC 2.0 Server for Coding Agents   │
 │ 📚 Knowledge Vault    │ Hybrid BM25 Context Pinning & Architectural Rules    │
 │ 🔬 AST Code Sandbox   │ In-Browser Syntax Tree & Dynamic Eval Sink Linter     │
-│ 🧪 Test Verification │ 46/46 Native Unit & Stress Tests Passing (264ms)      │
+│ 🧪 Test Verification │ 52/52 Native Unit & Stress Tests Passing (311ms)      │
 └──────────────────────┴──────────────────────────────────────────────────────┘
 ```
 
