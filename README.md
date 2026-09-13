@@ -23,15 +23,16 @@
 
 ## 🌟 Featured Open-Source Projects
 
-### ⚡ [RepoPulse AI • Titan Desktop Edition v2.2.0](https://github.com/miriyaladhanwinn/repo-pulse-ai)
+### ⚡ [RepoPulse AI • Titan Desktop Edition v2.3.0](https://github.com/miriyaladhanwinn/repo-pulse-ai)
 > **Native Desktop Maintainer Workstation, PR Intelligence Lab & Multi-Model Gateway**  
-> An open-source desktop application matching and surpassing the elegance of Cherry Studio, featuring **native Electron Liquid Glass framing**, **Apple Duo fluid closing physics (`@keyframes appleDuoClosing`)**, **Dynamic Island ambient pill**, **540+ verified AI models**, **54 maintainer personas**, AST-bounded diff decomposition, and native **Model Context Protocol (MCP)** server.
+> An open-source desktop application matching and surpassing the elegance of Cherry Studio, featuring **native Electron Liquid Glass framing**, **Web Auth & 6-Digit Email OTP Portal**, **Apple Duo fluid closing physics (`@keyframes appleDuoClosing`)**, **Dynamic Island ambient pill**, **540+ verified AI models**, **54 maintainer personas**, AST-bounded diff decomposition, and native **Model Context Protocol (MCP)** server.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                 RepoPulse Studio Desktop Shell • v2.2.0                     │
+│                 RepoPulse Studio Desktop Shell • v2.3.0                     │
 ├──────────────────────┬──────────────────────────────────────────────────────┤
 │ 🖥️ Native Desktop     │ Electron + Apple Liquid Glass + Windows 11 Acrylic   │
+│ 🔐 Web Auth Portal   │ 6-Digit Email OTP + Deep-Link Handoff (repopulse://) │
 │ 📱 Apple Duo Physics │ Spring-damped fluid closing & dynamic island pill    │
 │ 🧠 Multi-Model Router │ 540+ AI Models across 35 Providers (Spotlight ⌘K)    │
 │ 👥 Assistant Matrix   │ 54 Specialized Maintainer Personas (8 Disciplines)   │
@@ -39,7 +40,7 @@
 │ 🔌 Native MCP Server │ Dual stdio JSON-RPC 2.0 Server + Web Inspector Hub   │
 │ 📚 Knowledge Vault   │ Hybrid BM25 Context Pinning & Architectural Invariants│
 │ 🔬 AST Code Sandbox  │ In-Browser Syntax Tree & Dynamic Eval Sink Linter    │
-│ 🧪 Test Verification │ 56/56 Native Unit & Stress Tests Passing (305ms)     │
+│ 🧪 Test Verification │ 64/64 Native Unit & Stress Tests Passing (473ms)     │
 └──────────────────────┴──────────────────────────────────────────────────────┘
 ```
 
