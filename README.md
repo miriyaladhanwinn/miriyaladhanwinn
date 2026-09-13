@@ -32,10 +32,11 @@
 ├──────────────────────┬──────────────────────────────────────────────────────┤
 │ 🧠 Multi-Model Router │ 540+ AI Models across 35 Providers (Spotlight ⌘K)     │
 │ 👥 Assistant Matrix   │ 54 Specialized Maintainer Personas (8 Categories)    │
+│ 🎨 Apple Liquid Glass │ Aurora Hue Animations & 5 Dynamic Siri Themes        │
 │ 🔌 Model Context Protocol │ Native stdio & JSON-RPC 2.0 Server for Coding Agents   │
 │ 📚 Knowledge Vault    │ Hybrid BM25 Context Pinning & Architectural Rules    │
 │ 🔬 AST Code Sandbox   │ In-Browser Syntax Tree & Dynamic Eval Sink Linter     │
-│ 🧪 Test Verification │ 52/52 Native Unit & Stress Tests Passing (311ms)      │
+│ 🧪 Test Verification │ 52/52 Native Unit & Stress Tests Passing (300ms)      │
 └──────────────────────┴──────────────────────────────────────────────────────┘
 ```
 
