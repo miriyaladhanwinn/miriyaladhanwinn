@@ -2,13 +2,14 @@
 
 # ⚡ Dhanwinn (@miriyaladhanwinn)
 ### Principal Open Source Systems Architect & Autonomous Tooling Engineer
-**Creator of [RepoPulse AI](https://github.com/miriyaladhanwinn/repo-pulse-ai) & [AgentSkillMesh](https://github.com/miriyaladhanwinn/agent-skill-mesh)**
+**Creator of [RepoPulse AI (Titan Desktop Edition)](https://github.com/miriyaladhanwinn/repo-pulse-ai) & [AgentSkillMesh](https://github.com/miriyaladhanwinn/agent-skill-mesh)**
 
 [![GitHub followers](https://img.shields.io/github/followers/miriyaladhanwinn?label=Followers&style=for-the-badge&color=6366f1)](https://github.com/miriyaladhanwinn)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-ff69b4?style=for-the-badge)](https://github.com/miriyaladhanwinn)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 [![OpenAI Codex](https://img.shields.io/badge/Frontier-OpenAI%20Codex%20%26%20Agents-8b5cf6?style=for-the-badge)](https://developers.openai.com/codex/)
 [![Model Context Protocol](https://img.shields.io/badge/Protocol-MCP%20Standard-f97316?style=for-the-badge)](https://modelcontextprotocol.io/)
+[![Electron Native](https://img.shields.io/badge/Desktop-Electron%20%26%20Apple%20Liquid%20Glass-2b2d42?style=for-the-badge)](https://www.electronjs.org/)
 
 <br/>
 
@@ -22,26 +23,28 @@
 
 ## 🌟 Featured Open-Source Projects
 
-### ⚡ [RepoPulse AI • Titan Edition v2.0](https://github.com/miriyaladhanwinn/repo-pulse-ai)
-> **Autonomous Maintainer Harness, PR Intelligence Lab & Multi-Model Gateway**  
-> An open-source, desktop-caliber maintainer workspace that slices pull requests into AST-bounded context windows, runs automated CVE & logic reviews across 540+ models with Spotlight switcher (`Cmd+K`), and orchestrates 54 maintainer personas.
+### ⚡ [RepoPulse AI • Titan Desktop Edition v2.2.0](https://github.com/miriyaladhanwinn/repo-pulse-ai)
+> **Native Desktop Maintainer Workstation, PR Intelligence Lab & Multi-Model Gateway**  
+> An open-source desktop application matching and surpassing the elegance of Cherry Studio, featuring **native Electron Liquid Glass framing**, **Apple Duo fluid closing physics (`@keyframes appleDuoClosing`)**, **Dynamic Island ambient pill**, **540+ verified AI models**, **54 maintainer personas**, AST-bounded diff decomposition, and native **Model Context Protocol (MCP)** server.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                           RepoPulse Studio v2.0                             │
+│                 RepoPulse Studio Desktop Shell • v2.2.0                     │
 ├──────────────────────┬──────────────────────────────────────────────────────┤
-│ 🧠 Multi-Model Router │ 540+ AI Models across 35 Providers (Spotlight ⌘K)     │
-│ 👥 Assistant Matrix   │ 54 Specialized Maintainer Personas (8 Categories)    │
-│ 🎨 Apple Liquid Glass │ Aurora Hue Animations & 5 Dynamic Siri Themes        │
-│ 🔌 Model Context Protocol │ Native stdio & JSON-RPC 2.0 Server for Coding Agents   │
-│ 📚 Knowledge Vault    │ Hybrid BM25 Context Pinning & Architectural Rules    │
-│ 🔬 AST Code Sandbox   │ In-Browser Syntax Tree & Dynamic Eval Sink Linter     │
-│ 🧪 Test Verification │ 52/52 Native Unit & Stress Tests Passing (300ms)      │
+│ 🖥️ Native Desktop     │ Electron + Apple Liquid Glass + Windows 11 Acrylic   │
+│ 📱 Apple Duo Physics │ Spring-damped fluid closing & dynamic island pill    │
+│ 🧠 Multi-Model Router │ 540+ AI Models across 35 Providers (Spotlight ⌘K)    │
+│ 👥 Assistant Matrix   │ 54 Specialized Maintainer Personas (8 Disciplines)   │
+│ 🎨 Siri Glow Themes  │ 5 High-Contrast Color Themes (Siri, Midnight, etc.)  │
+│ 🔌 Native MCP Server │ Dual stdio JSON-RPC 2.0 Server + Web Inspector Hub   │
+│ 📚 Knowledge Vault   │ Hybrid BM25 Context Pinning & Architectural Invariants│
+│ 🔬 AST Code Sandbox  │ In-Browser Syntax Tree & Dynamic Eval Sink Linter    │
+│ 🧪 Test Verification │ 56/56 Native Unit & Stress Tests Passing (305ms)     │
 └──────────────────────┴──────────────────────────────────────────────────────┘
 ```
 
 - **Live GitHub Repository**: [https://github.com/miriyaladhanwinn/repo-pulse-ai](https://github.com/miriyaladhanwinn/repo-pulse-ai)
-- **Tech Stack**: TypeScript 5.7, Node.js 22, OpenAI Codex / Responses API, AST Slicing, MCP stdio transport
+- **Tech Stack**: Electron 44, TypeScript 5.7, Node.js 22, OpenAI Codex / Responses API, AST Slicing, MCP stdio transport
 
 ---
 
@@ -60,8 +63,9 @@
 
 | Domain | Technologies & Standards |
 | :--- | :--- |
+| **Desktop & UI** | `Electron 44` • `Apple Liquid Glass (Vibrancy / Acrylic)` • `CSS Springs & Fluid Physics` |
 | **Languages** | `TypeScript 5.7+` • `JavaScript (Node.js ESM)` • `Python 3.12` • `Go` • `Bash/POSIX` |
-| **AI & Protocols** | `OpenAI Codex / Responses API` • `Model Context Protocol (MCP)` • `Anthropic Claude 3.7` • `DeepSeek R1` • `Groq Llama 3.3` |
+| **AI & Protocols** | `OpenAI Codex / Responses API` • `Model Context Protocol (MCP)` • `Claude 3.7` • `Gemini 2.5` • `DeepSeek R1` |
 | **Core Systems** | `AST Parsing (TypeScript / Babel)` • `Token Budget Scheduling` • `BM25 Lexical Ranking` • `V8 Concurrency` |
 | **DevOps & CI/CD** | `GitHub Actions Workflows` • `SLSA Supply-Chain Security` • `Docker` • `Git Worktrees` |
 | **Governance** | `Apache-2.0 License` • `Semantic Versioning 2.0` • `Contributor Covenant 2.1` • `Coordinated Disclosure` |
