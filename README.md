@@ -77,6 +77,18 @@
 
 ---
 
+
+---
+
+## 🤖 OpenAI Codex for Open Source Maintainer Signals
+
+As primary maintainer of **RepoPulse AI**, my open-source work directly tackles the core challenges highlighted in the **OpenAI Codex for Open Source** initiative:
+
+- 🔍 **Automated PR Review**: Engineered AST-bounded diff decomposition that analyzes incoming pull requests and posts actionable maintainer reviews via OpenAI Codex.
+- 🏷️ **Intelligent Issue Triage**: Automated P0-P3 issue classifier detecting security vulnerabilities, breaking changes, and component routing.
+- 📦 **Release Automation**: Continuous integration testing across Node 18/20/22, automated SemVer enforcement, and deterministic changelog generation.
+- 🔌 **Model Context Protocol (MCP)**: Native stdio JSON-RPC 2.0 MCP server connecting Codex and ChatGPT Pro directly to repository maintainer workflows.
+
 ## 📊 Maintainer Standards & Invariants
 
 - 🛡️ **Zero Dynamic Evaluation**: Enforcing zero `eval()` and zero unsanitized runtime sinks across all production tooling.
