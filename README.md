@@ -1,18 +1,23 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:EC4899&height=200&section=header&text=Miriyala%20Dhanwinn&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Systems%20and%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%C2%B7%20P2P%20%C2%B7%20Agentic%20AI&descSize=16&descAlignY=55" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=200&section=header&text=Miriyala%20Dhanwinn&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Systems%20%26%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%C2%B7%20P2P%20%C2%B7%20Agentic%20AI&descSize=16&descAlignY=55" alt="banner" />
 
 <div align="center">
 
 <a href="https://github.com/miriyaladhanwinn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=A855F7&center=true&vCenter=true&width=720&height=45&lines=Systems+%26+Backend+Engineer;Distributed+Systems+%C2%B7+P2P+Networking;Model+Context+Protocol+(MCP)+%C2%B7+Agentic+AI;Go+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+Zero-Trust+%26+High-Throughput+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&height=45&lines=Systems+%26+Backend+Engineer;Distributed+Systems+%C2%B7+P2P+Networking;Model+Context+Protocol+(MCP)+%C2%B7+Agentic+AI;Go+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Currently%3A+Claude+Certified+Architect+(Foundations)" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/miriyala-dhanwinn-12a659373/">
-  <img height="44" src="https://img.shields.io/badge/-Let's%20Connect%20on%20LinkedIn%20%E2%86%92-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366F1" alt="Connect with Dhanwinn" />
+  <img height="44" src="https://img.shields.io/badge/-Let's%20Connect%20on%20LinkedIn%20%E2%86%92-0891B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2563EB" alt="Connect with Dhanwinn" />
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎯%20Currently-Claude%20Certified%20Architect%20(Foundations)-0891B2?style=for-the-badge&logoColor=white" alt="Currently: CCAR-F"/>
+<img src="https://img.shields.io/badge/🔥%20MergeTober%202026-Building%20Cognee%20Connectors-7C3AED?style=for-the-badge&logoColor=white" alt="MergeTober 2026"/>
 
 <br/><br/>
 
@@ -22,7 +27,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=miriyaladhanwinn&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=miriyaladhanwinn&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -36,16 +41,16 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm a systems and backend engineer focused on **distributed systems, peer-to-peer networking, and agentic AI architectures**.
+I'm a systems and backend engineer working where **distributed systems, peer-to-peer networking, and agentic AI** meet.
 
-I love engineering resilient, high-throughput software where **protocols, compilers, and security** intersect — whether it's orchestrating autonomous developer harnesses via the **Model Context Protocol (MCP)** or streaming encrypted compute workloads over **QUIC tunnels**.
+I build resilient, high-throughput software at the intersection of **protocols, compilers, and security** — from orchestrating autonomous developer harnesses over the **Model Context Protocol (MCP)** to streaming encrypted compute workloads through **Noise-secured QUIC tunnels**.
 
 - 🔭 &nbsp;Architecting **autonomous developer agents** & MCP tool suites ([RepoPulse AI](https://github.com/miriyaladhanwinn/repo-pulse-ai), [AgentSkillMesh](https://github.com/miriyaladhanwinn/agent-skill-mesh))
-- 🌐 &nbsp;Engineering zero-config **P2P distributed compute** using **Go, go-libp2p, QUIC & Noise Protocol**
-- ⚡ &nbsp;High-concurrency backend services with **Go (Gin), Node.js, PostgreSQL, sqlc & goose**
-- 🛡️ &nbsp;Deep focus on **zero dynamic eval() sinks**, AST-based syntactic decomposition & sandbox isolation
-- 🎓 &nbsp;B.Tech in Computer Science & Engineering at **Amrita Vishwa Vidyapeetham** (2025 – 2029)
-- 📍 &nbsp;Based in **Coimbatore, India** — enthusiastic about distributed systems, networking & agentic AI
+- 🌐 &nbsp;Engineering zero-config **P2P distributed compute** with **Go, go-libp2p, QUIC & Noise Protocol**
+- ⚡ &nbsp;High-concurrency backends in **Go (Gin), Node.js, PostgreSQL** — compile-time type-safe with `sqlc` & `goose`
+- 🛡️ &nbsp;Zero-trust mindset: **zero dynamic `eval()` sinks**, AST-based decomposition, sandboxed execution
+- 🎓 &nbsp;B.Tech Computer Science & Engineering, **Amrita Vishwa Vidyapeetham** (2025 – 2029)
+- 📍 &nbsp;Based in **Coimbatore, India** — always up for conversations on distributed systems, networking & agentic AI
 
 </td>
 <td width="42%" valign="top">
@@ -54,10 +59,10 @@ I love engineering resilient, high-throughput software where **protocols, compil
 package main
 
 type Engineer struct {
-    Name      string
-    Focus     []string
-    Daily     []string
-    Motto     func() string
+    Name  string
+    Focus []string
+    Daily []string
+    Motto func() string
 }
 
 var Dhanwinn = Engineer{
@@ -69,7 +74,7 @@ var Dhanwinn = Engineer{
         "High-Concurrency Backends",
     },
     Daily: []string{
-        "Go", "TypeScript", "Node.js", 
+        "Go", "TypeScript", "Node.js",
         "PostgreSQL", "Docker",
     },
     Motto: func() string {
@@ -92,39 +97,39 @@ var Dhanwinn = Engineer{
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/Idea%20Amrita-6366F1?style=flat-square&logo=googlecloud&logoColor=white"/> &nbsp;Developer
+### <img src="https://img.shields.io/badge/Idea%20Amrita-2563EB?style=flat-square&logo=googlecloud&logoColor=white"/> &nbsp;Developer
 
 **Amrita University Incubator** · Coimbatore | On-site  
 `Innovation & Entrepreneurship Platform`
 
-- Developed core platform features and maintained robust backend infrastructure for the university innovation incubator
+- Developed core platform features and maintained backend infrastructure for the university's innovation incubator
 - Optimized API query response times and integrated role-based application workflows
-- Collaborated cross-functionally to support emerging student startups and campus ventures
+- Supported emerging student startups and campus ventures cross-functionally
 
 <br/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/The%20Init%20Club-A855F7?style=flat-square&logo=terminal&logoColor=white"/> &nbsp;Backend Developer
+### <img src="https://img.shields.io/badge/The%20Init%20Club-7C3AED?style=flat-square&logo=terminal&logoColor=white"/> &nbsp;Backend Developer
 
 **Amrita University** · Coimbatore | Remote  
 `Student Community Tooling & Infrastructure`
 
-- Architected scalable backend services using **Node.js & Express** powering developer community tooling
-- Designed and maintained clean, structured RESTful APIs consumed across multi-platform client apps
-- Implemented robust error handling, automated testing harnesses, and CI delivery pipelines
+- Architected scalable backend services with **Node.js & Express** powering developer community tooling
+- Designed clean, structured RESTful APIs consumed across multi-platform clients
+- Built robust error handling, automated test harnesses, and CI delivery pipelines
 
 <br/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 </td>
@@ -132,21 +137,21 @@ var Dhanwinn = Engineer{
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/The%20ELITE%20Club-EC4899?style=flat-square&logo=databricks&logoColor=white"/> &nbsp;Backend Dev &amp; DBA
+### <img src="https://img.shields.io/badge/The%20ELITE%20Club-0891B2?style=flat-square&logo=databricks&logoColor=white"/> &nbsp;Backend Dev &amp; DBA
 
 **The ELITE Club** · Remote  
-`Database Administration & Security Protocols`
+`Database Administration & Security`
 
-- Managed production relational database schemas, query tuning, and index optimization
-- Enforced strict data protection, integrity constraints, and zero-trust security standards for club platforms
-- Designed automated migration procedures and schema audit workflows for student applications
+- Managed production relational schemas — query tuning, index optimization, integrity constraints
+- Enforced **zero-trust data protection** standards across student-facing platforms
+- Designed automated migration procedures and schema audit workflows
 
 <br/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security-000000?style=flat-square&logo=shield&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database%20Tuning-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zero--Trust-000000?style=flat-square&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Query%20Tuning-2563EB?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -156,9 +161,9 @@ var Dhanwinn = Engineer{
 **Amrita National Techfest** · Coimbatore | On-site  
 `National Techfest Platform · 10,000+ Participants`
 
-- Engineered high-performance, responsive interfaces in **React** serving **10,000+ registered attendees**
-- Optimized critical rendering paths and state management to guarantee smooth UX during peak registration traffic
-- Built interactive schedule explorer, event catalog, and attendee credentialing interfaces
+- Engineered high-performance **React** interfaces serving **10,000+ registered attendees**
+- Optimized rendering paths and state management for peak registration traffic
+- Built interactive schedule explorer, event catalog, and credentialing interfaces
 
 <br/>
 
@@ -184,39 +189,39 @@ var Dhanwinn = Engineer{
 
 ### 🤖 &nbsp;[RepoPulse AI](https://github.com/miriyaladhanwinn/repo-pulse-ai)
 
-Autonomous open-source maintainer harness & official **Model Context Protocol (MCP)** server automating PR reviews, semantic diff analysis, and issue reproduction.
+Autonomous open-source maintainer harness & official **Model Context Protocol (MCP)** server — automating PR reviews, semantic diff analysis, and issue reproduction.
 
 - **AST-based syntactic hunk decomposition** with zero dynamic `eval()` sinks
-- Integrated OpenAI Codex Responses API with deterministic heuristic fallbacks across **72+ automated unit tests**
-- Cryptographic authentication (`scryptSync`, 6-digit expiring OTP) & multi-pane UI shell routing **540+ frontier AI models**
+- OpenAI Codex Responses API with deterministic heuristic fallbacks — **72+ automated unit tests**
+- Cryptographic auth (`scryptSync`, expiring 6-digit OTP) & shell routing **540+ frontier AI models**
 
 <br/>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP%20Protocol-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP%20Protocol-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/AST%20Analysis-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/AST%20Analysis-7C3AED?style=flat-square"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 &nbsp;[NodeShare](https://github.com/miriyaladhanwinn)
+### 🌐 &nbsp;NodeShare
 
-Zero-configuration **P2P distributed compute tool** connecting remote machines over Noise-encrypted QUIC tunnels without central servers, accounts, or open ports.
+Zero-configuration **P2P distributed compute** — remote machines linked over Noise-encrypted QUIC tunnels. No central servers, no accounts, no open ports.
 
 - **Noise-encrypted QUIC tunnels** over `go-libp2p` for decentralized peer connectivity
-- Robust NAT traversal via **Circuit Relay v2**, **DCUtR hole punching**, and Pinggy fallback tunnels
-- Securely multiplexes code bundles and streams real-time **Docker task execution logs**
+- NAT traversal via **Circuit Relay v2**, **DCUtR hole punching**, Pinggy fallback tunnels
+- Multiplexed streams carrying code bundles & real-time **Docker task execution logs**
 
 <br/>
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/go--libp2p-6366F1?style=flat-square&logo=libp2p&logoColor=white"/>
+<img src="https://img.shields.io/badge/go--libp2p-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/QUIC%20Tunnel-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/QUIC%20Tunnel-0891B2?style=flat-square"/>
 
 </td>
 
@@ -229,36 +234,36 @@ Zero-configuration **P2P distributed compute tool** connecting remote machines o
 
 High-performance **Model Context Protocol (MCP)** tool suite and skill runtime for OpenAI Codex and autonomous developer agents.
 
-- Implements complete **JSON-RPC 2.0 stdio protocol specifications** with sub-millisecond dispatch
-- **Dynamic tool schema discovery** and structured parameter validation
-- Secure execution sandbox preventing unconstrained shell execution in autonomous coding loops
+- Complete **JSON-RPC 2.0 stdio** protocol implementation with sub-millisecond dispatch
+- **Dynamic tool schema discovery** & structured parameter validation
+- Secure execution sandbox — no unconstrained shell in autonomous coding loops
 
 <br/>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Model%20Context%20Protocol-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/JSON--RPC%202.0-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Context%20Protocol-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/JSON--RPC%202.0-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sandbox-000000?style=flat-square&logo=securityscorecard&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sandboxed-000000?style=flat-square&logo=securityscorecard&logoColor=white"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📋 &nbsp;[On Duty](https://github.com/miriyaladhanwinn)
+### 📋 &nbsp;On Duty
 
-Enterprise duty-leave and attendance workflow system engineered for the **Amrita CSE department** with granular role-based access control.
+Enterprise duty-leave & attendance workflow system for the **Amrita CSE department** — granular role-based access control, built for real production load.
 
-- High-throughput backend built with **Go & Gin** for rapid concurrent approval flows
-- Compile-time type-safe SQL query generation using **`sqlc`** with zero runtime reflection overhead
-- Automated, versioned database schema migrations on **PostgreSQL** powered by **`goose`**
+- High-throughput backend in **Go & Gin** for concurrent approval flows
+- Compile-time type-safe SQL via **`sqlc`** — zero runtime reflection overhead
+- Versioned **PostgreSQL** schema migrations automated with **`goose`**
 
 <br/>
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/sqlc-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/sqlc-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 </td>
@@ -268,7 +273,7 @@ Enterprise duty-leave and attendance workflow system engineered for the **Amrita
 
 <div align="center">
 <a href="https://github.com/miriyaladhanwinn?tab=repositories">
-<img src="https://img.shields.io/badge/→%20Browse%20all%20repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="all repos"/>
+<img src="https://img.shields.io/badge/→%20Browse%20all%20repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="all repos"/>
 </a>
 </div>
 
@@ -286,23 +291,23 @@ Enterprise duty-leave and attendance workflow system engineered for the **Amrita
 <td><img src="https://skillicons.dev/icons?i=go,ts,js,python,java,c,cpp,html,css" alt="languages"/></td>
 </tr>
 <tr>
-<td align="center"><b>Backend & Protocols</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite,mongodb,supabase,redis" alt="backend"/></td>
+<td align="center"><b>Backend &amp; Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,sqlite,supabase" alt="backend and data"/></td>
 </tr>
 <tr>
-<td align="center"><b>DevOps & Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,bash,electron,postman,vite" alt="tools"/></td>
+<td align="center"><b>DevOps &amp; Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash,vscode,postman,vite,electron" alt="devops and tools"/></td>
 </tr>
 <tr>
-<td align="center"><b>Frontend & UI</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="frontend"/></td>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="frontend"/></td>
 </tr>
 </table>
 
 <sub>
 
 **Protocols & Systems:** Model Context Protocol (MCP) · JSON-RPC 2.0 (stdio) · go-libp2p · QUIC / Noise Protocol · Protobuf · WebSockets · REST APIs  
-**Tooling & Architecture:** sqlc · goose · AST Static Analysis · DCUtR NAT Traversal · Circuit Relay v2 · Zero-Trust Auth (scryptSync) · Docker Sandbox
+**Engineering:** AST Static Analysis · DCUtR NAT Traversal · Circuit Relay v2 · Zero-Trust Auth (scryptSync) · sqlc · goose · Docker Sandboxing
 
 </sub>
 
@@ -335,6 +340,10 @@ Enterprise duty-leave and attendance workflow system engineered for the **Amrita
 
 <br/><br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=miriyaladhanwinn&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="trophies" />
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miriyaladhanwinn&theme=github_dark" />
   <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miriyaladhanwinn&theme=github" alt="repos per language" />
@@ -347,14 +356,8 @@ Enterprise duty-leave and attendance workflow system engineered for the **Amrita
 
 <br/><br/>
 
-<b>🌿 Contribution Graph</b>
+<b>🐍 Watch the snake eat my contributions</b>
 <br/><br/>
-<img width="92%" src="https://ghchart.rshah.org/6366F1/miriyaladhanwinn" alt="contribution chart" />
-
-<!--
-  🐍 SNAKE ANIMATION — uncomment the block below AFTER the
-  "Generate Snake Animation" workflow has run once successfully in .github/workflows/snake.yml.
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miriyaladhanwinn/miriyaladhanwinn/output/github-contribution-grid-snake-dark.svg" />
@@ -365,7 +368,7 @@ Enterprise duty-leave and attendance workflow system engineered for the **Amrita
 
 <br/>
 
-<!-- ═══════════════════════════ EDUCATION & COMPETENCIES ═══════════════════════════ -->
+<!-- ═══════════════════════════ EDUCATION ═══════════════════════════ -->
 
 ## 🎓 &nbsp;Education &amp; Core Strengths
 
@@ -388,12 +391,12 @@ High School Diploma
 </td>
 <td width="50%" valign="top">
 
-### 🏆 &nbsp;Core Competencies
+### 🏆 &nbsp;Core Strengths
 
-- 🌐 &nbsp;**Distributed & P2P Systems** — Zero-config NAT traversal (DCUtR, Relay v2), QUIC & Noise tunneling
+- 🌐 &nbsp;**Distributed & P2P Systems** — zero-config NAT traversal (DCUtR, Relay v2), QUIC & Noise tunneling
 - 🤖 &nbsp;**Agentic AI Engineering** — Model Context Protocol (MCP), JSON-RPC 2.0 stdio, AST code analysis
-- 🔒 &nbsp;**Zero-Trust Security** — Cryptographic auth (`scryptSync`), secure sandboxing, zero eval() sinks
-- 🚀 &nbsp;**Production-Grade Backends** — High-concurrency Go (Gin) & Node.js with compile-time type-safe `sqlc` & `goose`
+- 🔒 &nbsp;**Zero-Trust Security** — cryptographic auth (`scryptSync`), sandboxing, zero `eval()` sinks
+- 🚀 &nbsp;**Production Backends** — high-concurrency Go (Gin) & Node.js, type-safe `sqlc`, `goose` migrations
 
 </td>
 </tr>
@@ -412,7 +415,7 @@ Open to conversations about **distributed systems**, **peer-to-peer networking**
 <br/>
 
 <a href="https://www.linkedin.com/in/miriyala-dhanwinn-12a659373/">
-  <img height="46" src="https://img.shields.io/badge/-Connect%20on%20LinkedIn%20%E2%86%92-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366F1" alt="Connect with Miriyala Dhanwinn" />
+  <img height="46" src="https://img.shields.io/badge/-Connect%20on%20LinkedIn%20%E2%86%92-0891B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2563EB" alt="Connect with Miriyala Dhanwinn" />
 </a>
 
 <br/><br/>
@@ -433,4 +436,4 @@ Open to conversations about **distributed systems**, **peer-to-peer networking**
 <i>"Resilience through decentralization, precision in abstraction."</i>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:6366F1&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0891B2&height=120&section=footer" alt="footer" />
