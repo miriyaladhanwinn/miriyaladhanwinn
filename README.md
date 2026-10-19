@@ -404,6 +404,54 @@ High School Diploma
 
 <br/>
 
+<!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
+
+## 🏆 &nbsp;Achievements &amp; Certifications
+
+<div align="center">
+
+<a href="https://www.skills.google/public_profiles/a5f62750-d31c-401e-947c-8969cb3bdcee">
+<img src="https://img.shields.io/badge/Google%20Cloud-4%20Skill%20Badges-0891B2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud skill badges"/>
+</a>
+<a href="https://www.skills.google/public_profiles/a5f62750-d31c-401e-947c-8969cb3bdcee">
+<img src="https://img.shields.io/badge/Arcade-Bronze%20League-2563EB?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Arcade Bronze League"/>
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ &nbsp;Google Cloud
+
+**4 Skill Badges** — *Learn with Communities*  
+([public profile](https://www.skills.google/public_profiles/a5f62750-d31c-401e-947c-8969cb3bdcee))
+
+- Analyze Images with the Cloud Vision API
+- Create Your First Gemini Enterprise Application
+- Develop AI-Powered Prototypes in Google AI Studio
+- Implement Speech and Language Solutions with Pre-trained APIs
+
+**Google Cloud Arcade** — 🥉 Bronze League
+
+</td>
+<td width="50%" valign="top">
+
+### 🎖️ &nbsp;Certifications &amp; Programs
+
+- 🍃 &nbsp;**MongoDB** — 6/6 courses certified
+- 🇮🇳 &nbsp;**VBYLD 2027** — Essay Round qualifier (MyBharat)
+- 🎃 &nbsp;**Hacktoberfest HackDay Coimbatore 2026** — participant
+- 🏆 &nbsp;**MergeTober 2026** — building 3 Cognee data-source connectors
+- 🎓 &nbsp;**Internshala** — Student Partner (Amrita campus rep)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 
 ## 🤝 &nbsp;Let's Connect
