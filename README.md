@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:EC4899&height=200&section=header&text=Miriyala%20Dhanwinn&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Systems%20%26%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%C2%B7%20P2P%20%C2%B7%20Agentic%20AI&descSize=16&descAlignY=55" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:EC4899&height=200&section=header&text=Miriyala%20Dhanwinn&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Systems%20and%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%C2%B7%20P2P%20%C2%B7%20Agentic%20AI&descSize=16&descAlignY=55" alt="banner" />
 
 <div align="center">
 
