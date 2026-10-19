@@ -340,7 +340,7 @@ Enterprise duty-leave & attendance workflow system for the **Amrita CSE departme
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=miriyaladhanwinn&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="trophies" />
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=miriyaladhanwinn&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="trophies" />
 
 <br/><br/>
 
