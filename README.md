@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=miriyaladhanwinn&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/miriyaladhanwinn"><img src="https://visitor-badge.laobi.icu/badge?page_id=miriyaladhanwinn.miriyaladhanwinn&title=PROFILE+VIEWS&left_color=2563EB&right_color=0891B2" alt="Profile views" height="28"/></a>
 
 </div>
 
